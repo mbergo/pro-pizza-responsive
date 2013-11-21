@@ -1,0 +1,10 @@
+*.pyc
+*.orig
+*.log
+.DS_Store
+*~
+.coverage
+coverage.xml
+test-report.xml
+\#*\#
+*.bak
